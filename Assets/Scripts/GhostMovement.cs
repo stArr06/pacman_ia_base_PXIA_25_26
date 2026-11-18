@@ -1,4 +1,5 @@
 using UnityEngine;
+using Pathfinding;
 
 [RequireComponent(typeof(Rigidbody2D))]
 public class GhostMovement : MonoBehaviour
